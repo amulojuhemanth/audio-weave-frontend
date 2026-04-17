@@ -11,7 +11,7 @@ export default function PromptInput({
   onChange,
   disabled,
 }: PromptInputProps) {
-  const maxLength = 500;
+  const maxLength = 300;
 
   return (
     <div className="space-y-2">
